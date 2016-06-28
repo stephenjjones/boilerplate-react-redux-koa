@@ -1,0 +1,9 @@
+node_modules/
+server/dist/*
+server/build/*
+client/build/*
+npm-debug.log
+.DS_Store
+
+# Vim temp/backup files
+*.swp
